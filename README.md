@@ -1,38 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p>Resolução do 16° desafio proposto pela <strong>rocketseat</strong>, durante a iniciativa <strong>#boracodar</strong> que aconteceu no mês de janeiro de 2023.</p>
 
-## Getting Started
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>name</th>
+      <th>date</th>
+      <th>view</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>16</td>
+      <td>Página de Contatos</td>
+      <td>28/04/23</td>
+      <td><a href="https://boracodar16.vercel.app/">🔗</a></td>
+    </tr>
+  </tbody>
+</table>
 
-First, run the development server:
+<p>O Desafio consiste em reproduzir o layout de uma página de contatos onde tem uma lista de contatos com scroll.</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<div align="center">
+<h1>Resultado</h1>
+<img src="https://user-images.githubusercontent.com/104238801/235759216-3ae4b312-85f7-4a5b-b4fa-3f66e30daf09.png" alt="page" width="700px" />
+</div>
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
