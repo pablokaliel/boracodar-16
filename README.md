@@ -30,4 +30,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195050524500542670).
+Você pode visualizar o layout do projeto através [DESSE LINK]https://www.figma.com/community/file/1230513627011474566).
